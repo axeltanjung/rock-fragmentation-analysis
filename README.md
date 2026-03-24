@@ -209,3 +209,6 @@ Supports deployment on:
 - **AWS** — ECS/Fargate or EC2
 - **GCP** — Cloud Run or GKE
 - **Render** — Direct Docker deployment
+
+## Full Report
+[Download PDF](./Industrial_Survival_Systems.pdf)
